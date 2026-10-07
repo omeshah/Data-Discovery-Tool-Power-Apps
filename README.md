@@ -33,6 +33,24 @@ The Skills Discovery Tool provides a guided discovery experience by allowing use
 
 ---
 
+## Technologies Used
+ 
+- Microsoft Power Apps
+- Power Fx
+- SharePoint Online
+ 
+---
+
+## Skills Demonstrated
+ 
+- Power Apps Development
+- SharePoint Integration
+- Power Fx
+- Data Modelling
+- Responsive UI Design
+- Business Process Improvement
+ 
+---
 ## Key Features
 
 ### Domain-Based Discovery
@@ -50,3 +68,6 @@ Clusters:
 - Harvest Operations
 - Mill Operations
 - Plantation Operations
+
+---
+ 
