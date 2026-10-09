@@ -1,4 +1,4 @@
-# Skills Discovery Tool (Microsoft PowerApps)
+# Data Discovery Tool (Microsoft PowerApps)
 
 ## Overview
 
